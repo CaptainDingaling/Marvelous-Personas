@@ -1,0 +1,10 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/marvelousPersonasPortraits/mp_persean_01.png",
+		],
+		"standard_female":[
+
+		],
+	},
+},

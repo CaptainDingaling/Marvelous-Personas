@@ -1,0 +1,12 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/marvelousPersonasPortraits/mp_luddic_03.png",
+
+		],
+		
+		"standard_female":[
+
+		],
+	},
+},
