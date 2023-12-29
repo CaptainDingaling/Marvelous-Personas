@@ -1,0 +1,12 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/CaptainDingaling/Marvelous-Personas/main/Marvelous-Personas-v1.0/marvelousPersonas.version",
+    "modName":"Marvelous Personas",
+    "modThreadId":28530,
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":"1"
+    },
+    "changelogURL":"https://raw.githubusercontent.com/CaptainDingaling/Marvelous-Personas/main/Marvelous-Personas-v1.0/changelog.txt"
+}
