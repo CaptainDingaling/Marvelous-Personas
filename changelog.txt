@@ -2,6 +2,6 @@ Version 1.0.1
 
 - Cleaned up portrait backgrounds. They all have solid '#000000' black backgrounds now.
 
-Version 1.0 
- 
+Version 1.0
+
 - Initial release.
