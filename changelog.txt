@@ -1,7 +1,12 @@
+Version 1.1.0
+
+- Added 4 New portraits to Corporate. (Vanilla + 6 additional Portraits now)
+- Added 4 New portraits to Diktat. (Vanilla + 4 additional Portraits now)
+
 Version 1.0.1
 
 - Cleaned up portrait backgrounds. They all have solid '#000000' black backgrounds now.
 
-Version 1.0
-
+Version 1.0 
+ 
 - Initial release.
