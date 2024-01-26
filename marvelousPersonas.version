@@ -5,8 +5,8 @@
     "modVersion":
     {
         "major":1,
-        "minor":0,
-        "patch":"1"
+        "minor":1,
+        "patch":"0"
     },
     "changelogURL":"https://raw.githubusercontent.com/CaptainDingaling/Marvelous-Personas/main/changelog.txt"
 }
