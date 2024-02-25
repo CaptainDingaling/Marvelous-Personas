@@ -1,7 +1,7 @@
 {
 	"portraits":{
 		"standard_male":[
-
+			"graphics/portraits/marvelousPersonasPortraits/mp_pirate_03.png",
 		],
 		"standard_female":[
 			"graphics/portraits/marvelousPersonasPortraits/mp_pirate_01.png",
