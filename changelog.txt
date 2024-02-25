@@ -1,3 +1,11 @@
+Version 1.2.1
+
+- Added 1 New portrait to Pirate. (Vanilla + 3 additional Portraits now)
+- Revisited and replaced 3 portraits. Which are:
+	* portrait_pirate15.png
+	* portrait_pirate16.png
+	* portrait_pirate20.png
+
 Version 1.1.1
 
 - Updated to work with Starsector 0.97a-RC11.
